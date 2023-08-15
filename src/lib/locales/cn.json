@@ -1,0 +1,30 @@
+{
+    "title": "Nostr",
+    "nav": {
+        "resources": "资源",
+        "whatIs": "Nostr 是什么？",
+        "whyWeNeed": "我们为什么需要 Nostr？",
+        "getStarted": "开始",
+        "whatZaps": "电击是什么？",
+        "nostrProtocol": "Nostr 协议",
+        "clients": "客户端",
+        "relays": "中继器",
+        "relayImplementations": "中继器实施形式",
+        "nostrProjects": "其他项目",
+        "contribute": "贡献",
+        "guides": "指南",
+        "guideIris": "Iris（网络客户端）",
+        "guideDamus": "Damus（iOS 客户端）",
+        "guideAmethyst": "Amethyst （安卓客户端）",
+        "getNip05": "获取 NIP-05 验证"
+    },
+    "donateButton": "捐助 Nostr.how",
+    "colophon": "用 💜 和 ⚡ 制造",
+    "foss": "骄傲的自由及开源代码",
+    "mitLicense": "MIT 授权条款",
+    "contactMe": "联络",
+    "errors": {
+        "noTranslationTitle": "找不到翻译",
+        "noTranslationMessage": "对不起，这个页面不存在翻译版本。如果你有兴趣创建这个页面，请联络我们。"
+    }
+}
