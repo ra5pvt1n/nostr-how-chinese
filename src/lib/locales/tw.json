@@ -1,0 +1,30 @@
+{
+    "title": "Nostr",
+    "nav": {
+        "resources": "資源",
+        "whatIs": "Nostr 是什麼？",
+        "whyWeNeed": "我們爲什麼需要 Nostr？",
+        "getStarted": "開始",
+        "whatZaps": "電擊是什麼？",
+        "nostrProtocol": "Nostr 協議",
+        "clients": "客戶端",
+        "relays": "中繼器",
+        "relayImplementations": "中繼器實施形式",
+        "nostrProjects": "其他項目",
+        "contribute": "貢獻",
+        "guides": "指南",
+        "guideIris": "Iris（網絡客戶端）",
+        "guideDamus": "Damus（iOS 客戶端）",
+        "guideAmethyst": "Amethyst（安卓客戶端）",
+        "getNip05": "獲取 NIP-05 驗證"
+    },
+    "donateButton": "捐助 Nostr.how",
+    "colophon": "用 💜 和 ⚡ 製造",
+    "foss": "驕傲的自由及開源代碼",
+    "mitLicense": "MIT 授權條款",
+    "contactMe": "聯絡",
+    "errors": {
+        "noTranslationTitle": "找不到翻譯版本",
+        "noTranslationMessage": "對不起，這個頁面不存在翻譯版本。如果你有興趣創建這個頁面，請聯絡我們。"
+    }
+}
